@@ -47,7 +47,7 @@ flight.clear(): void
 ## Install
 
 ```sh
-npm install single-flight
+npm install one-flight
 ```
 
 Node >= 22.13 (uses standard JS only; runs on any modern runtime).

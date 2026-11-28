@@ -1,5 +1,5 @@
 {
-  "name": "single-flight",
+  "name": "one-flight",
   "version": "0.1.0",
   "description": "Collapse concurrent duplicate async work into one execution. In-flight dedupe plus optional result reuse window for agent runtimes, job workers, and cache stampede protection.",
   "keywords": [
@@ -37,7 +37,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Kopachelli/single-flight.git"
+    "url": "git+https://github.com/Kopachelli/one-flight.git"
   },
   "devDependencies": {
     "@types/node": "^24.19.4",
